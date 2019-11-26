@@ -1,29 +1,3 @@
-# travel-diary
+Single-page application which allows its users to pinpoint cities on a Google map, and in return, receive a list of recommended places, vistas and activities to check out in the selected city.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Utilizes Google Maps API, HTML, CSS, JavaScript, Vue.js, Ajax, PHP, Laravel, Eloquent ORM and MySQL.
